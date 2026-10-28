@@ -1,0 +1,179 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.ltrr.arizona.edu/~hal/dlprecon.html
+Subject: PRECON Downloading Information
+Date: Wed, 28 Oct 2026 23:16:38 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--JLH6I50m6OBdc5SKsqY8UCa0QojGnMEsKXtRbVTA5u----"
+
+
+------MultipartBoundary--JLH6I50m6OBdc5SKsqY8UCa0QojGnMEsKXtRbVTA5u----
+Content-Type: text/html
+Content-ID: <frame-F5C0312AA825B1E8CDC2CE5C0AC5A42C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.ltrr.arizona.edu/~hal/dlprecon.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"></head><body><doctype html=3D"" system=3D"" "html.dtd"=3D"=
+">
+<title>PRECON Downloading Information</title>
+
+<h1>Files for PRECON (without graphics program) and Documentation</h1>
+<h2>Downloading information</h2>
+<hr>
+<p><b>The following contain the revised PRECON (version 5.17c) PKZIP files:=
+</b>
+</p><ul>
+<li><b>PRECO517.ZIP</b> - All .EXE, .BAT,  DOSXMSF.EXE and PREADME5.TXT fil=
+es needed
+ for running the 32 bit version.  A 16 bit version is no longer available.
+</li></ul>
+<p>
+</p><p>These are all new files for the revised PRECON, Version  5.17c.  Thi=
+s corrects a bug in Version
+   5.17a and 5.17b that caused a runtime error when the climatic file start=
+ed 1 or 2 years after the chronology
+   file.  The GBA program can be
+    called at any time in the 32 bit version using the ALT G, so it is not =
+necessary to use Menu Option 9. =20
+   The boot strap program will run up to 99999 iterations if anyone ever wa=
+nts to run that many.  I=20
+   recommend running at least 30 iterations for experimenting with differen=
+t models.  You may want to
+   run more iterations for final publications.  Joel Guiot tells me that th=
+ere is little significant change
+   after 50 iterations although others have recommended up to 1000. =20
+</p><p><b>The following are additional PKZIP files provided in the original=
+ disk and have not changed:</b>
+</p><ul>
+<li><b>PRCONCLD.ZIP</b> - The climatic data files.
+</li><li><b>PRCONPCN.ZIP</b> - Other files used in the program including do=
+cumentation, PRECONK.DOC..
+</li><li><b>NEWPRDAT.ZIP</b> - Additional files, the manual PRECONK.TXT
+</li><li> The graphics package (GBA) for displaying the results is not incl=
+uded. The full version may be obtained
+from H.C. Fritts.
+</li></ul>
+  <p>       This new version of PRECON 5.17c A) corrects some bugs in Versi=
+ons 5.0 through 5.17b
+    involving reading of the chronology file, =20
+    B) allows you to assign longer paths and file names, C) enables the ana=
+lysis of
+    earlywood and latewood data, and D) allows a more complete
+    analysis of data from the Southern Hemisphere as well as a few
+    other conveniences. =20
+
+   </p><p>      If you enter E or L in the earlywood or latewood option,
+    then the program assumes that the first file read is either
+    earlywood or latewood and will prompt you for a second file
+    that will be the latewood of the previous year or earlywood of
+    the current year.  In the analysis of the response function,
+    the three prior growth values for earlywood will be the late-
+    wood and earlywood of the preceding year and latewood two
+    years previously.  For latewood the prior growth values will
+    be the earlywood of the current year and the latewood and early-
+    wood of the preceding year.
+
+   </p><p>     If you choose the option for Southern Hemisphere data, the
+    climatic data are read, moved backward in time by 6 months, and
+    rewritten in a file with the .t_t or .p_p extent. This is the
+    same as beginning the calendar year in July instead of January so
+    Month 1 in the Southern Hemisphere year will be July, month 2,
+    August and so forth.  The program simply displaces the climatic
+    data so you can include values for the years prior to growth
+    comparable to the Northern Hemisphere.  The year of growth
+    follows the convention for Southern Hemisphere chronology data
+    in that the year assigned to the ring-width index is the year
+    in which growth begins.  There is no longer any need to change
+    the date to run PRECON and you can include more months extending
+    the coverage to the end of the growing season.  Those of you who
+    have data using these two options, please try the options out and
+    let me know if you encounter any problems.
+
+     </p><p>    Just as in the earlier version of PRECONK (2.1 - 5.1) the
+    program can generate input for the KALMAN FILTER PROGRAM written
+    by Ed Cook, which I have revised to use input from PRECONK.  The Kalman=
+ filter file
+    was not included in the distribution disk and if you know how and want =
+to use it you
+    must obtain it here.  All EXE files will run under Windows 95.
+
+    </p><p>      For those who are registered owners of the full program, i=
+f you=20
+    encounter difficulties in the future, please do
+    me a great favour by sending as much information as you can on the
+    problem, including the *.out file generated by the problem, and I
+    will try to correct the code, recompile it and send you a new
+    free updated version as promptly as possible.
+
+      </p><p>                   Sincerely,  Harold C. Fritts
+</p><hr>   =20
+
+<p>Download the <a href=3D"https://www.ltrr.arizona.edu/~hal/dload/preco517=
+.zip">
+ PRECO517.ZIP</a>archive which contains all information needed to upgrade o=
+ld versions=20
+ and the revised 32 bit program and the PREADME file.=20
+
+</p><p>Download the <a href=3D"https://www.ltrr.arizona.edu/~hal/dload/kalm=
+an.zip">
+ KALMAN.ZIP</a>archive which contains the Kalman filter program..=20
+
+</p><p>Download the <a href=3D"https://www.ltrr.arizona.edu/~hal/dload/newp=
+rdat.zip">
+NEWPRDAT.ZIP file. </a> archive with the manual.
+
+</p><p>If you want to try the program, even without graphics, also download=
+<a href=3D"https://www.ltrr.arizona.edu/~hal/dload/prconcld.zip">PRCONCLD.Z=
+IP </a>  and
+<a href=3D"https://www.ltrr.arizona.edu/~hal/dload/prconpcn.zip">PRCONPCN.Z=
+IP.</a>
+</p><hr>
+<b><a href=3D"http://www.ltrr.arizona.edu/webhome/hal/hal1.html">Return to =
+Hal's Home=20
+Page.</a></b><p>
+</p><address>Prepared by Harold C. Fritts  <i>hfritts@LTRR.arizona.edu</i> =
+-- Last updated
+March 29, 2000</address>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</doctype></body></html>
+------MultipartBoundary--JLH6I50m6OBdc5SKsqY8UCa0QojGnMEsKXtRbVTA5u------
