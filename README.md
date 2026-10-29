@@ -27,14 +27,14 @@ with the program's learning mode. He cautioned that the program's other options 
 not revisited for this version and may not run correctly. PRECON6 is the last
 version Fritts released.
 
-## Why this matters
+## Why preserve this? 
 
 Harold C. Fritts was a foundational figure in dendroclimatology; his 1976 book
 *Tree Rings and Climate* defined the field. PRECON implemented the response-function
-methodology at the heart of that work, letting researchers quantify and test the
-climate signal recorded in tree-ring chronologies. The approach it pioneered
-continues today in modern tools such as the `treeclim` and `bootRes` R packages and
-[dplR](https://opendendro.org/r/).
+methodology he described there and in his 1971 paper in the Journal of Applied Meteorology,
+letting researchers quantify and test the climate signal recorded in tree-ring chronologies. 
+The approach he pioneered continues today in modern tools such as the `treeclim` and `bootRes` 
+R packages and [dplR](https://opendendro.org/r/).
 
 ## Contents
 
